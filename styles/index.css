@@ -1,0 +1,11 @@
+header {
+  margin: auto;
+  padding: 10vh;
+  text-align: center;
+  background-color: #11457e;
+  color: white;
+}
+
+.main-body {
+  padding-top: 3vh;
+}
