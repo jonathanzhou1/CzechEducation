@@ -34,6 +34,10 @@ iframe {
   min-width: 350px;
 }
 
+li {
+  margin-left: 3vw;
+}
+
 @media screen and (min-width: 800px) {
   iframe {
     width: 60% !important;
