@@ -1,11 +1,18 @@
 header {
   margin: auto;
-  padding: 10vh;
+  padding-top: 8vh;
+  padding-bottom: 5vh;
   text-align: center;
   background-color: #11457e;
   color: white;
+  margin-bottom: 8vh;
 }
 
-.main-body {
-  padding-top: 3vh;
+.row {
+  margin-top: 6vh;
+  margin-bottom: 4vh;
+}
+
+h3 {
+  margin-bottom: 3vh;
 }
